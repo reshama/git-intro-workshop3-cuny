@@ -1,6 +1,7 @@
 # Git Resources
 
 ## Basics
+* [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 * [GitHub’s Interactive Tutorial](https://try.github.io/levels/1/challenges/1)
 * [GitHub’s “Hello World” Tutorial](https://guides.github.com/activities/hello-world/)
 * [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -13,4 +14,7 @@
 ## In Case of Emergency, Break Glass
 * [Git Mess Flowchart](http://justinhileman.info/article/git-pretty/git-pretty.png)
 * [Oh shit, git!](http://ohshitgit.com)
+
+## Set up
+* [Setting up a credential manager (no more login when pushing/pulling)](https://help.github.com/articles/caching-your-github-password-in-git/)
 
