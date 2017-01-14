@@ -12,5 +12,5 @@
 
 ## In Case of Emergency, Break Glass
 * [Git Mess Flowchart](http://justinhileman.info/article/git-pretty/git-pretty.png)
-* [http://ohshitgit.com/](http://ohshitgit.com)
+* [Oh shit, git!](http://ohshitgit.com)
 
