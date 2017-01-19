@@ -13,7 +13,7 @@
 ## Step 2a:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
   - add a line with an emoji
-  - I added:  _Looking forward to the party :cake: ! :smiley: _
+  - I added:  _Looking forward to the party :cake: ! :smiley:_
 - Add a Python file:  `hello.py`
   - add a line, the ubiquitous:  `print("Hello World")`
   
