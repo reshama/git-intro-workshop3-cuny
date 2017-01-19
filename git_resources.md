@@ -1,5 +1,8 @@
 # Git Resources
 
+## Field Specific
+* [Git and GitHub for Librarians](http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs)
+
 ## Basics
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 * [GitHub’s Interactive Tutorial](https://try.github.io/levels/1/challenges/1)
