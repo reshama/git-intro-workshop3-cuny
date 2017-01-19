@@ -36,7 +36,7 @@ Email:   rs2715@stern.nyu.edu
      - undo Git changes
 
 ### Installation
-This workshop covers Git CLI (command line interface).  [It does not use Git Gui.]  
+This workshop covers Git CLI (command line interface).  [It does not use Git GUI.]  
  * Mac
  * Windows
      * Git Bash
