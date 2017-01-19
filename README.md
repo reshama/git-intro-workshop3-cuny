@@ -35,6 +35,13 @@ Email:   rs2715@stern.nyu.edu
      - create a branch and work from it
      - undo Git changes
 
+### Installation
+This workshop covers Git CLI (command line interface).  [It does not use Git Gui.]  
+ * Mac
+ * Windows
+     * Git Bash
+     
+     
 ### Workshop Documents
 - [Git terminology](git_1_intro.md)
 - [Create a repo and update it](git_2_create_repo_update.md)
