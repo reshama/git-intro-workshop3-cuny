@@ -15,7 +15,7 @@
   - add a line with an emoji
   - I added:  _Looking forward to the party :cake: ! :smiley: _
 - Add a Python file:  `hello.py`
-  - add a line, the ubiquitous:  _Hello World!_
+  - add a line, the ubiquitous:  `print("Hello World")`
   
 **Note:  add a meaningful commit message**  
 
