@@ -1,7 +1,7 @@
-#Create a Repository on GitHub
+# Create a Repository on GitHub
 
 
-##Step 1: Create a repo using GitHub (on web browser)
+## Step 1: Create a repo using GitHub (on web browser)
 - Click on `+` next to your profile picture
 - Select `New Repository`
 - Repository name:  `starting_git`
@@ -10,7 +10,7 @@
 - Check box for `Initialize this repository with a README`
 - Select green button `Create repository`
 
-##Step 2:  Let's add a couple of files
+## Step 2a:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
   - add a line with an emoji
   - I added:  _Looking forward to the party :cake: ! :smiley: _
@@ -19,7 +19,12 @@
   
 **Note:  add a meaningful commit message**  
 
-##Step 3:  Add collaborators (if you would like to share)
+
+## Step 2b:  Let's delete (`git rm`) and rename (`git mv`) some files
+- do examples
+  
+
+## Step 3:  Add collaborators (if you would like to share)
 
 - Settings / Collaborators
 - add GitHub username
