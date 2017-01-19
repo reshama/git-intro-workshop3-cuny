@@ -38,7 +38,7 @@ Email:   rs2715@stern.nyu.edu
 ### Workshop Documents
 - [Git terminology](git_1_intro.md)
 - [Create a repo and update it](git_2_create_repo_update.md)
-- [Save work](git_3_save_changes.md)
+- [Save Work (Git: add, commit and push a file)](git_3_save_changes.md)
 - [Fork another user's repo; use branches](git_4_fork_branch.md)
 - [Undo work (Reset, Checkout, and Revert)](git_5_undo_work.md)
 - [Git notes for reference](git_6_reference_notes.md)
