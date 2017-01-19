@@ -2,11 +2,11 @@
 task:  end changes from local computer to GitHub repo (sync repos)
 
 ## Git Flow 
-| #     | Command                   |  Description      |
-|-------|---------------------------| ------------------|
-|  1    | `git add <filename>`      |  adds a change in the working directory to the staging area; tells Git that you want to include updates to a particular file in the next commit.  |    
-|  2    | `git commit -m "message"` | changes are recorded in Git |  
-|  3    | `git push`                | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
+| #     | Command                   | Step  | Description      |
+|-------|---------------------------| -----|------------------|
+|  1    | `git add <filename>`      | begin tracking a file | adds a change in the working directory to the staging area; tells Git that you want to include updates to a particular file in the next commit.  |    
+|  2    | `git commit -m "message"` | log the change | changes are recorded in Git |  
+|  3    | `git push`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
  
 
 
