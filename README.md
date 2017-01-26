@@ -37,10 +37,8 @@ Email:   rs2715@stern.nyu.edu
 
 ### Installation
 This workshop covers Git CLI (command line interface).  [It does not use Git GUI.]  
- * Mac
- * Windows
-     * Git Bash
-     
+[Getting Started:  Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ 
      
 ### Workshop Documents
 - [Git terminology](git_1_intro.md)
